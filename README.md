@@ -24,7 +24,8 @@ project/
 ### Frontend:
 - React.js
 - Axios
-- Tailwind CSS
+- Tailwind CSS (with Vite@latest)
+- Vite (for fast React development and bundling)
 
 ### Backend:
 - Node.js
